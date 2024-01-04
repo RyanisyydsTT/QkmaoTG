@@ -35,7 +35,7 @@ Explore QkmaoTG for quick and easy personalized URL shortening!
 
 **Creduts:**
 - **Qkmao Website:** [qkmao.cc](https://qkmao.cc)
-- **Shortener Made by Maoyue**
+- **Shortener Made by [Maoyue](https://github.com/MagicTeaMC/MagicTeaMC)**
 - **Bot Made by Ryanisyyds**
 - **Bot Uses Qkmao API**
 
@@ -77,6 +77,6 @@ Explore QkmaoTG for quick and easy personalized URL shortening!
 
 **Credits:**
 - **Qkmao 網站:** [qkmao.cc](https://qkmao.cc)
-- **短網址由 Maoyue 製作**
+- **短網址由 [Maoyue](https://github.com/MagicTeaMC/MagicTeaMC) 製作**
 - **機器人由 Ryanisyyds製作**
 - **機器人使用 Qkmao API**
