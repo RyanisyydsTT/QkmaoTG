@@ -1,4 +1,4 @@
-### QkmaoTG - Qkmao Shortener Python Telegram Bot
+# QkmaoTG - Qkmao Shortener Python Telegram Bot
 
 **Description:**
 🚀 Welcome to QkmaoTG, your feature-rich Qkmao Shortener Python Telegram Bot! Quickly and easily shorten your URLs for convenient sharing. Whether you need a custom link or a randomly generated short URL, QkmaoTG has you covered.
@@ -12,16 +12,15 @@
 **How to Use:**
 🔗 **URL Shortening:**
    - Start a chat with QkmaoTG on Telegram: [t.me/QkmaoBot](https://t.me/QkmaoBot)
-   - Type `/short` followed by the long URL you want to shorten. For example: `/short https://example.com`
-
-🌐 **Custom Links (Optional):**
-   - To customize the short URL, add a space after the long URL and include your desired custom link. For example: `/short https://example.com custom-slug`
+   - Type `/short` followed by the long URL you want to shorten. For example: `/short https://example.com custom_slug`
 
 🚧 **Note:**
    - QkmaoTG is currently under development, and your feedback is crucial for improvement.
    - If you encounter any issues, the bot will provide clear error messages.
 
 **Bug Reports and Feature Requests:**
+
+
 🐞 **Found a Bug?**
    - If you come across a bug, try creating an issue on our [GitHub repository](#insert your GitHub repository link here).
    - Include detailed information about the bug and steps to reproduce it.
