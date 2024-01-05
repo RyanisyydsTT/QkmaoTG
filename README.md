@@ -60,12 +60,18 @@ Explore QkmaoTG for quick and easy personalized URL shortening!
 4. **錯誤處理：** 全面的錯誤處理提供清晰的訊息以應對任何問題。
 
 **如何使用:**
+## Pro
+- 1.下載`qkmao.py`
+- 2.更改`Telegram Bot Token`
+- 3.輸入 `pip install python-telegram-bot` and `pip install axios` and `pip install requests`
+- 4.再輸入 `python3 /location/qkmao.py` 
+- 4.Enjoy!
+
+## 簡單版
 🔗 **網址縮短:**
    - 在 Telegram 中開始與 QkmaoTG 機器人的聊天: [t.me/QkmaoBot](https://t.me/QkmaoBot)
-   - 輸入 `/short`，後接您想縮短的長網址。例如: `/short https://example.com`
+   - 輸入 `/short`，後接您想縮短的長網址。例如: `/short https://example.com slug`
 
-🌐 **自定義連結 (可選):**
-   - 若要自定義短網址，可在長網址後加上一個空格，然後加上自定義連結。例如: `/short https://example.com custom-slug`
 
 🚧 **注意:**
    - QkmaoTG 目前仍在開發中，您的回饋對於改進至關重要。
