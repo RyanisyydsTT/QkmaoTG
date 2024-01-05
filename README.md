@@ -10,6 +10,14 @@
 4. **Error Handling:** Comprehensive error handling provides clear messages to address any issues.
 
 **How to Use:**
+## Pro
+- 1.Download our qkmao.py from file
+- 2.Edit the Telegram Bot Token
+- 3.Type `pip install python-telegram-bot` and `pip install axios` and `pip install requests`
+- 4.Type `python3 /location/qkmao.py` 
+- 4.Enjoy!
+
+## Normal
 🔗 **URL Shortening:**
    - Start a chat with QkmaoTG on Telegram: [t.me/QkmaoBot](https://t.me/QkmaoBot)
    - Type `/short` followed by the long URL you want to shorten. For example: `/short https://example.com custom_slug`
