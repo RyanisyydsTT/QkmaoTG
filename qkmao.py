@@ -2,7 +2,7 @@ import json
 import requests
 from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import Updater, CommandHandler, CallbackContext
-
+print("Thank you for using Qkmao link shortener, please make sure you have already changed the Telegram Token"
 # Qkmao API endpoint URL for custom shortening
 QKMAO_API_ENDPOINT_CUSTOM = "https://qkmao.cc/api/v2"
 
