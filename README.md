@@ -78,6 +78,7 @@ Explore QkmaoTG for quick and easy personalized URL shortening!
    - 如果遇到任何問題，機器人將提供清晰的錯誤訊息。
 
 **錯誤回報與功能請求:**
+
 🐞 **發現了 Bug?**
    - 如果遇到 Bug，請嘗試在我們的GitHub Issue 包含有關 Bug 的詳細資訊以及重現 Bug 的步驟。
 
