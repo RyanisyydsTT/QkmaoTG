@@ -30,7 +30,7 @@
 
 
 🐞 **Found a Bug?**
-   - If you come across a bug, try creating an issue on our [GitHub repository](#insert your GitHub repository link here).
+   - If you come across a bug, try creating an issue on our repo.
    - Include detailed information about the bug and steps to reproduce it.
 
 ➕ **Feature Requests:**
