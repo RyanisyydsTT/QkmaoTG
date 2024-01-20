@@ -34,7 +34,7 @@
    - Include detailed information about the bug and steps to reproduce it.
 
 ➕ **Feature Requests:**
-   - Have new feature ideas? Share your thoughts by creating a new feature request on our [GitHub repository](#insert your GitHub repository link here).
+   - Have new feature ideas? Share your thoughts by creating a new feature request on our GitHub repository.
 
 Explore QkmaoTG for quick and easy personalized URL shortening!
 
