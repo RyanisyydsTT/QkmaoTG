@@ -69,13 +69,13 @@ def credit(update: Update, context: CallbackContext) -> None:
     # Create an embedded message with the title 'Credits'
     update.message.reply_text(
         '感謝您使用Qkmao.cc縮網址服務\n'
-        'Credits:',
+        'Credits列表:',
         reply_markup=reply_markup
     )
 
 def main() -> None:
     # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your actual Telegram Bot API token
-    updater = Updater(token='TGTOKEN', use_context=True)
+    updater = Updater(token='FILL_YOU_TELEGRAM_TOKEN', use_context=True)
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
