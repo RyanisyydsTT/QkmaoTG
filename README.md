@@ -8,6 +8,8 @@
 2. **Custom Links:** Personalize shortened URLs with custom links for easy recall.
 3. **Random Short URLs:** Generate random short URLs for a quick and simple experience.
 4. **Error Handling:** Comprehensive error handling provides clear messages to address any issues.
+5. **QRcode Generate:** Generate Shortened, Smaller QRcode
+6. **Rick Roll Blocker:** Auto blocks RickRoll links being shortened, Pretty useful feature.
 
 **How to Use:**
 ## Pro
