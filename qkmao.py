@@ -73,6 +73,20 @@ def credit(update: Update, context: CallbackContext) -> None:
         reply_markup=reply_markup
     )
 
+def status(update: Update, context: CallbackContext) -> None:
+    start_time = time.time()
+    message = update.message.reply_text('Checking status...')
+    
+    try:
+        response = requests.get('https://qkmao.cc/api/v2', timeout=5)
+        if response.status_code == 200:
+            ping = round(response.elapsed.total_seconds() * 1000)
+            message.edit_text(f'🚀Pong! 您的\nPing: {ping} ms')
+        else:
+            message.edit_text(f'Status: Error - {response.status_code}')
+    except requests.RequestException as e:
+        message.edit_text(f'Status: Error - {str(e)}')
+
 def main() -> None:
     # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your actual Telegram Bot API token
     updater = Updater(token='FILL_YOU_TELEGRAM_TOKEN', use_context=True)
